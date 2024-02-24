@@ -6,17 +6,25 @@
 
 demo 影片（預設值為該產業的中位數）：https://reurl.cc/kaGk8K
 
+*使用技術：Python, Pandas, Numpy, Matplotlib, Scikit-Learn, XGBoost Regressor, FastApi + Vue.js, Docker, Google Cloud Platform*
+
 ### 🔗 Bricks 專案管理工具｜Google 學生開發社團 GDSC [連結](https://github.com/WAFFLE900/Bricks_project_management_tool)
 
 Bricks 是為大學生量身打造的專案管理工具，強調簡潔、直覺且不失專業性，以「會議記錄」、「組織架構圖」和「IG 式提案」三大功能來優化會議紀錄和強化組織管理。
+
+*使用技術：Python, SQL, MySQL, Flask + Vue.js, ORM, 串接 Google 登入, Nginx, Google Cloud Platform*
 
 ### 🔗 政大排球場地協調系統 NCCU Volleyball Court Coordination System｜課程專案 Course Project [連結](https://github.com/Tim-mab-master/volleyball_site_system)
 
 為政大學生打造的系統，提供政大學生一個協調、預約排球場地的管道，解決校內場地缺乏管理及分配不公的問題。
 
+*使用技術：Java, Java Swing, SQL, SQLlite, JDBC*
+
 ### 🔗 OU-process 配對交易策略模型｜台大程式交易社團 TMBA [連結](https://github.com/WAFFLE900/OU-process_pair_trading)
 
 針對標的過去的價量或其他的相關資料，利用統計方法和 python 來建構配對交易策略和回測架構，其中包括採用 Cointegration 來選取適合的標的，以及使用 OU-process 來優化交易策略，並用歷史資料進行回測。
+
+*使用技術：Python, Pandas, Numpy, Matplotlib, scipy.optimize, sympy, OU-process, ADF Cointegration*
 
 <!--
 **WAFFLE900/WAFFLE900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
