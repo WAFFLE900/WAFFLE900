@@ -1,9 +1,12 @@
 # 程式作品集 Coding Profile
 
-🔗 排碳預測系統 Carbon Emission Forecast System｜工業技術研究院 ITRI
-🔗 Bricks 專案管理工具｜Google 學生開發社團 GDSC
-🔗 政大排球場地協調系統 NCCU Volleyball Court Coordination System｜課程專案 Course Project
-🔗 OU-process 配對交易策略模型｜台大程式交易社團 TMBA
+## 🔗 排碳預測系統 Carbon Emission Forecast System｜工業技術研究院 ITRI
+
+## 🔗 Bricks 專案管理工具｜Google 學生開發社團 GDSC
+
+## 🔗 政大排球場地協調系統 NCCU Volleyball Court Coordination System｜課程專案 Course Project
+
+## 🔗 OU-process 配對交易策略模型｜台大程式交易社團 TMBA
 <!--
 **WAFFLE900/WAFFLE900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
