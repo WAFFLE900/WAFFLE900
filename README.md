@@ -1,5 +1,12 @@
 # 程式作品集 Coding Profile
 
+### 🔗 Trino 跨資料源查詢與資料工程 Demo｜Data Federation & Analytics [連結](https://github.com/WAFFLE900/Trino_Demo)
+
+利用 Trino 建置可於 Windows / Podman 本機執行的跨資料源分析環境，整合 MySQL、PostgreSQL、MongoDB 與 Apache Iceberg，透過單一 SQL 完成跨系統資料查詢與 JOIN。專案涵蓋 Metabase 商業分析儀表板、FastAPI 查詢 API、dbt 資料轉換與增量更新，以及跨資料源查詢最佳化展示；並透過 PowerShell 腳本自動化環境啟停與測試驗證。
+
+*使用技術：Trino, SQL, Podman, MySQL, PostgreSQL, MongoDB, Apache Iceberg, MinIO, dbt, FastAPI, Metabase, PowerShell*
+
+
 ### 🔗 排碳夯算盤 Carbon Emission Forecast website｜工業技術研究院 ITRI [連結](https://github.com/WAFFLE900/ITRI_carbon_emission_forecast_website)
 
 排碳夯算盤主要是利用公開資料（政府Open Data、公開資訊觀測站及各企業財報）推估出一個描述企業排碳情況的模型，幫助審查機關快速掌握企業的排碳情況，也能幫助中小企業快速評估審查成本。 我們選擇使用使用 XGboost regressor 來建立預測模型，並且在模型表現中，樣本內的 86 家廠商資料和樣本外的五家公司碳排估計之準確率皆達到 98% 以上。
