@@ -1,6 +1,6 @@
 # 程式作品集 Coding Profile
 
-### 🔗 Trino 跨資料源查詢與資料工程 Demo｜Data Federation & Analytics [連結](https://github.com/WAFFLE900/Trino_Demo)
+### 🔗 Trino 跨資料源查詢與資料工程 Demo｜電商平台 [連結](https://github.com/WAFFLE900/Trino_Demo)
 
 利用 Trino 建置可於 Windows / Podman 本機執行的跨資料源分析環境，整合 MySQL、PostgreSQL、MongoDB 與 Apache Iceberg，透過單一 SQL 完成跨系統資料查詢與 JOIN。專案涵蓋 Metabase 商業分析儀表板、FastAPI 查詢 API、dbt 資料轉換與增量更新，以及跨資料源查詢最佳化展示；並透過 PowerShell 腳本自動化環境啟停與測試驗證。
 
